@@ -14,12 +14,17 @@
 
 
 ## Tabulation
+![WhatsApp Image 2026-03-28 at 11 58 32 AM](https://github.com/user-attachments/assets/1e62127b-1810-4792-a47b-6041d2842e75)
 
 ## Graph
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+![WhatsApp Image 2026-03-28 at 11 58 32 AM (1)](https://github.com/user-attachments/assets/5347b9fe-7d3b-4083-8f3e-a66a5aa74c44)
 
-Practical frequency of Oscillation =
+
+Practical frequency of Oscillation =58.8Hz
 
 
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation =159Hz
+![WhatsApp Image 2026-03-28 at 11 58 32 AM (2)](https://github.com/user-attachments/assets/d3387572-1931-4fa1-8100-6e46b5081bf6)
+
